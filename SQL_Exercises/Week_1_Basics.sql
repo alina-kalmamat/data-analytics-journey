@@ -42,16 +42,16 @@ WHERE p.name = 'Bruce Willis';
 -- Skills: INNER JOIN
 SELECT fm.status, fm.member_name, sum(p.amount*p.unit_price) AS costs
 FROM FamilyMembers AS fm 
-JOIN Payments AS p ON fm.member_id=p.family_member 
-JOIN goods AS g ON p.good=g.good_id
-JOIN GoodTypes AS gt ON g.type=gt.good_type_id
-WHERE gt.good_type_name='entertainment'
+JOIN Payments AS p ON fm.member_id = p.family_member 
+JOIN goods AS g ON p.good = g.good_id
+JOIN GoodTypes AS gt ON g.type = gt.good_type_id
+WHERE gt.good_type_name = 'entertainment'
 GROUP BY fm.status, fm.member_name;
 
 -- Task #29: Print the names of passengers who flew to Moscow on TU-134. There should be no duplicates in the response.
 -- Skills: INNER JOIN, AND
 SELECT DISTINCT p.name 
 FROM passenger AS P
-JOIN Pass_in_trip AS PIT ON p.id=pit.passenger
-JOIN trip AS T ON pit.trip=t.id
+JOIN Pass_in_trip AS PIT ON p.id = pit.passenger
+JOIN trip AS T ON pit.trip = t.id
 WHERE t.town_to = 'Moscow' AND t.plane = 'TU-134'
