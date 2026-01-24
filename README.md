@@ -17,7 +17,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 * **Current Focus:** Master complex SQL queries and data cleaning.
 
 ## 📁 Repository Structure
-* * [**/SQL_Exercises**](./SQL_Exercises): Solutions to practical tasks from various platforms (SQL Academy, etc.).
+* [**/SQL_Exercises**](./SQL_Exercises): Solutions to practical tasks from various platforms (SQL Academy, etc.).
 * `/Projects`: End-to-end data analysis projects (Coming soon).
 
 ## 📈 Recent Highlights
