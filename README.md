@@ -17,7 +17,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 * **Current Focus:** Master complex SQL queries and data cleaning.
 
 ## 📜 Certifications
-* **Intro to SQL | Kaggle** ([View Certificate](https://clck.ru/3RfqEe))
+* **Intro to SQL | Kaggle** ([View Certificate](https://clck.ru/3RfqEe
 ))
     * Focused on BigQuery, complex JOINs, and data filtering in cloud environments.
 
