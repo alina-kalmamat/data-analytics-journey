@@ -17,7 +17,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 * **Current Focus:** Master complex SQL queries and data cleaning.
 
 ## 📜 Certifications
-* **Intro to SQL | Kaggle** ([View Certificate](<img width="4800" height="2960" alt="Alina Kalmamatova - Intro to SQL" src="https://github.com/user-attachments/assets/0af4f4c3-9957-439c-828a-35f7c639add0" />
+* **Intro to SQL | Kaggle** ([View Certificate](./Alina%20Kalmamatova%20-%20Intro%20to%20SQL.png))
 ))
     * Focused on BigQuery, complex JOINs, and data filtering in cloud environments.
 
