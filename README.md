@@ -5,24 +5,26 @@ I've set a goal to self-study and get into a **Data Analyst** role within 5 mont
 This repository serves as my public portfolio and a log of my daily progress.
 
 ## 🚀 Learning Roadmap
-- [x] **Month 1: SQL Fundamentals** (SELECT, JOINs, Subqueries, Aggregations).
-- [ ] **Month 2: Advanced SQL & Python Basics** (Window Functions, Pandas, NumPy).
+- [x] **Month 1: SQL Mastery** (Basics, JOINs, Window Functions, CTEs).
+- [ ] **Month 2: Python for Data Analysis** (Pandas, NumPy, Matplotlib/Seaborn).
 - [ ] **Month 3: Data Visualization** (Tableau or Power BI).
 - [ ] **Month 4: Statistics & Exploratory Data Analysis (EDA).**
 - [ ] **Month 5: Portfolio Projects & Internship Hunt.**
 
 ## 🛠 Tech Stack
-* **Databases:** PostgreSQL, MySQL.
-* **Tools:** DBeaver, Git/GitHub.
+* **Databases:** PostgreSQL, MySQL, Google BigQuery.
+* **Tools:** DBeaver, Git/GitHub, Kaggle.
 * **Current Focus:** Master complex SQL queries and data cleaning.
+
 
 ## 📁 Repository Structure
 * [**/SQL_Exercises**](./SQL_Exercises): Solutions to practical tasks from various platforms (SQL Academy, etc.).
 * `/Projects`: End-to-end data analysis projects (Coming soon).
 
 ## 📈 Recent Highlights
-* **Joined the challenge:** January 2026.
-* **Milestone:** Successfully implemented complex multi-table JOINs and aggregate functions.
+* **January 2026:** Started the 5-month challenge.
+* **Certifications:** Earned "Intro to SQL" certificate from Kaggle.
+* **Current Progress:** Solved 95+ exercises on SQL Academy, covering Window Functions and complex logic.
 
 ---
 📫 Let's connect on [LinkedIn](www.linkedin.com/in/alinakalmamat
