@@ -22,8 +22,8 @@ This repository serves as my public portfolio and a log of my daily progress.
     * Focused on BigQuery, complex JOINs, and data filtering in cloud environments.
 
 ## 📁 Repository Structure
-* [**/SQL_Exercises**](./SQL_Exercises): Solutions to practical tasks from various platforms.
-* **/Projects**: End-to-end data analysis projects.
+* [**SQL_Exercises**](./SQL_Exercises): Solutions to practical tasks from various platforms.
+* **Projects**: End-to-end data analysis projects.
     * [Northwind Sales & Operations Insight](https://github.com/alina-kalmamat/northwind-sql-project) — Advanced SQL analysis using PostgreSQL (CTEs, Window Functions, CASE WHEN).
 
 ## 📈 Recent Highlights
