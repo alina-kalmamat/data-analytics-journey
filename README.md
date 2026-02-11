@@ -42,5 +42,4 @@ This repository serves as my public portfolio and a log of my daily progress.
 * **Current Progress:** Solved 95+ exercises on SQL Academy, covering Window Functions and complex logic.
 
 ---
-📫 Let's connect on [LinkedIn](www.linkedin.com/in/alinakalmamat
-)
+# 📫 Let's connect on [LinkedIn!](www.linkedin.com/in/alinakalmamat)
