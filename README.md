@@ -5,7 +5,17 @@ I've set a goal to self-study and get into a **Data Analyst** role within 5 mont
 This repository serves as my public portfolio and a log of my daily progress.
 
 ## 🚀 Learning Roadmap
-- [x] **Month 1: SQL Mastery** (Basics, JOINs, Window Functions, CTEs).
+
+<details>
+<summary><b>Month 1: SQL Mastery</b> (Basics, JOINs, Window Functions, CTEs) ✅</summary>
+
+* **Week 1**: Basic SQL commands (SELECT, FROM, WHERE, GROUP BY, HAVING).
+* **Week 2**: Mastering JOINs (INNER, LEFT, RIGHT, FULL) and Subqueries.
+* **Week 3**: Advanced Analytics: Window Functions (RANK, LAG, NTILE) and CTEs.
+* **Week 4**: Final Project: [Northwind Sales Analysis](https://github.com/alina-kalmamat/northwind-sql-project) and received **Kaggle SQL Certificate**.
+
+</details>
+
 - [ ] **Month 2: Python for Data Analysis** (Pandas, NumPy, Matplotlib/Seaborn).
 - [ ] **Month 3: Data Visualization** (Tableau or Power BI).
 - [ ] **Month 4: Statistics & Exploratory Data Analysis (EDA).**
