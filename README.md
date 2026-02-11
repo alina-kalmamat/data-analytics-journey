@@ -7,7 +7,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 ## 🚀 Learning Roadmap
 
 <details>
-<summary><b>Month 1: SQL Mastery</b> (Basics, JOINs, Window Functions, CTEs) ✅</summary>
+<summary><b>✅ Month 1: SQL Mastery</b> (Basics, JOINs, Window Functions, CTEs) </summary>
 
 * **Week 1**: Basic SQL commands (`SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`).
 * **Week 2**: Mastering JOINs (INNER, LEFT, RIGHT, FULL) and Subqueries.
