@@ -10,7 +10,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 <summary><b>✅ Month 1: SQL Mastery</b> (Basics, JOINs, Window Functions, CTEs) </summary>
 
 * **Week 1**: Basic SQL commands (`SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`).
-* **Week 2**: Mastering JOINs (INNER, LEFT, RIGHT, FULL) and Subqueries.
+* **Week 2**: Mastering JOINs (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`) and Subqueries.
 * **Week 3**: Advanced Analytics: Window Functions (RANK, LAG, NTILE) and CTEs.
 * **Week 4**: [Final Project](https://github.com/alina-kalmamat/northwind-sql-project) and received **Kaggle SQL Certificate**.
 
