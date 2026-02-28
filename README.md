@@ -39,6 +39,6 @@ This repository serves as my public portfolio and a log of my daily progress.
 ## 📈 Recent Highlights
 * **January 2026:** Started the 5-month challenge.
 * **Certifications:** Earned "Intro to SQL" certificate from Kaggle.
-* **Current Progress:** Solved 95+ exercises on SQL Academy, covering Window Functions and complex logic.
+* **Current Progress:** Officially finished the Advanced Excel & Power Query certification path.
 
 ## 📫 Let's connect on [LinkedIn](www.linkedin.com/in/alinakalmamat)!
