@@ -15,11 +15,12 @@ This repository serves as my public portfolio and a log of my daily progress.
 * **Week 4**: [Final Project](https://github.com/alina-kalmamat/northwind-sql-project) and received **Kaggle SQL Certificate**.
 
 </details>
+
 <details>
-<summary><b>✅ Month 2: Excel & Python for Data Analysis </summary>
+<summary><b>🟡 Month 2: Excel & Python for Data Analysis </summary>
 
 * **Week 1:** Power Query & ETL: Mastering data cleaning, Unpivot, and merging multiple sources.
-* **Week 2:** Advanced Analytics & Dashboards. `XLOOKUP`, Pivot Tables, and interactive visualization.
+* **Week 2:** Advanced Analytics & Dashboards: `XLOOKUP`, Pivot Tables, and interactive visualization.
 </details>
 - [ ] ** Month 3: Data Visualization** (Tableau or Power BI).** 
 - [ ] ** Month 4: Statistics & Exploratory Data Analysis (EDA).**
