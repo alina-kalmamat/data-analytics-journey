@@ -21,7 +21,7 @@ This repository serves as my public portfolio and a log of my daily progress.
 
 * **Week 1:** Power Query & ETL: Mastering data cleaning, Unpivot, and merging multiple sources.
 * **Week 2:** Advanced Analytics & Dashboards: `XLOOKUP`, Pivot Tables, and interactive visualization.
-</details>
+
 - [ ] ** Month 3: Data Visualization** (Tableau or Power BI).** 
 - [ ] ** Month 4: Statistics & Exploratory Data Analysis (EDA).**
 - [ ] ** Month 5: Portfolio Projects & Internship Hunt.** 
