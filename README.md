@@ -10,7 +10,9 @@ This repository serves as my public portfolio, documentation of my technical gro
 <summary><b>✅ Stage 1: SQL & Data Processing (Jan 19 – Mar 1)</b></summary>
 
 **Week 1-2**: Filtering, Sorting, Aggregations, and all types of **`JOIN`s** (SQL Academy & Stepik).
+
 **Week 3-4**: Advanced Analytics: **Window Functions** (`RANK`, `ROW_NUMBER`) and **CTEs** (`WITH` statements).
+
 **Week 5-6**: **Excel & Power Query**: ETL processes, Unpivot, `XLOOKUP`, and Interactive Dashboards.
 </details>
 
@@ -18,8 +20,11 @@ This repository serves as my public portfolio, documentation of my technical gro
 <summary><b>🟡 Stage 2: Python for Data Science (Mar 1 – Apr 19)</b></summary>
 
 **Week 7-8**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
+
 **Week 9-10**: Advanced Basics: String manipulation, Lists, and Functions.
+
 **Week 11-12**: **Pandas & NumPy**: Vectorized operations, DataFrames, loc/iloc, and handling missing values (NaN).
+
 **Week 13**: **EDA Mini-Project**: Full cleaning and analysis of a Kaggle dataset in Jupyter Notebook.
 </details>
 
