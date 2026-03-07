@@ -57,7 +57,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 
 ## 📁 Repository Structure
 * [**SQL_Exercises**](./SQL_Exercises): Solutions and scripts from SQL Academy and Stepik.
-* [**Python_Basics**](./Python_Basics): Practice tasks from "Generation Python" and mini-scripts.
+* [**Python_Learning**](./Python_learning): Practice tasks from "Generation Python" and mini-scripts.
 * **Projects**:
     * [Northwind Sales Analysis](https://github.com/alina-kalmamat/northwind-sql-project) — Advanced SQL (CTEs, Window Functions).
     * *Upcoming: Python EDA Project (April 2026)*
