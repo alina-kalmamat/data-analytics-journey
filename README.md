@@ -17,7 +17,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 <details open>
 <summary><b>🟡 Stage 2: Python for Data Science (Mar 1 – Apr 19)</b></summary>
 
-**Week 7-8**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
+* **Week 7-8**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
 * **Week 9-10**: Advanced Basics: String manipulation, Lists, and Functions.
 * **Week 11-12**: **Pandas & NumPy**: Vectorized operations, DataFrames, loc/iloc, and handling missing values (NaN).
 * **Week 13**: **EDA Mini-Project**: Full cleaning and analysis of a Kaggle dataset in Jupyter Notebook.
