@@ -9,7 +9,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 <details>
 <summary><b>✅ Stage 1: SQL & Data Processing (Jan 19 – Mar 1)</b></summary>
 
-* **Week 1-2**: Filtering, Sorting, Aggregations, and all types of `JOIN`s (SQL Academy & Stepik).
+-— **Week 1-2**: Filtering, Sorting, Aggregations, and all types of `JOIN`s (SQL Academy & Stepik).
 * **Week 3-4**: Advanced Analytics: **Window Functions** (`RANK`, `ROW_NUMBER`) and **CTEs** (`WITH` statements).
 * **Week 5-6**: **Excel & Power Query**: ETL processes, Unpivot, `XLOOKUP`, and Interactive Dashboards.
 </details>
