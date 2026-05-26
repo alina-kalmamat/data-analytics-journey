@@ -51,13 +51,13 @@ This repository serves as my public portfolio, documentation of my technical gro
 ## 📜 Certifications
 * **Intro to SQL | Kaggle** ([View Certificate](https://clck.ru/3RfqEe))
     * Focused on SQL fundamentals, aggregations, sorting
-* **Advanced SQL | Kaggle** ([View Certificate](https://clck.ru/3RfqEe))
+* **Advanced SQL | Kaggle** ([View Certificate](clck.ru/3TqKKp))
     * Focused on BigQuery, complex JOINs, and cloud data filtering.
-* **Python Generation | Stepik** ([View Certificate](https://clck.ru/3RfqEe))
+* **Python Generation | Stepik** ([View Certificate](clck.ru/3TqKQn))
     * Focused on core programming logic, loops (FOR/WHILE), functions, and basic automation scripts.
-* **Pandas | Kaggle** ([View Certificate](https://clck.ru/3RfqEe))
+* **Pandas | Kaggle** ([View Certificate](clck.ru/3TqKS5))
     * Focused on DataFrames, loc/iloc indexing, grouping (groupby), and handling missing data (NaN).
-* **Data Visualiation | Kaggle** ([View Certificate](https://clck.ru/3RfqEe))
+* **Data Visualiation | Kaggle** ([View Certificate](https://goo.su/rGS8c))
     * Focused on EDA, exploratory plotting with Matplotlib/Seaborn, and correlation analysis.
 
 ## 📁 Repository Structure
