@@ -7,7 +7,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 ## 🚀 Learning Roadmap
 
 <details>
-<summary><b>✅ Stage 1: SQL & Data Processing (Jan 19 – Mar 1)</b></summary>
+<summary><b>✅ Stage 1: SQL & Data Processing </b></summary>
 
 * **Week 1-2**: Filtering, Sorting, Aggregations, and all types of `JOIN`s (SQL Academy & Stepik).
 * **Week 3-4**: Advanced Analytics: **Window Functions** (`RANK`, `ROW_NUMBER`) and **CTEs** (`WITH` statements).
@@ -15,16 +15,15 @@ This repository serves as my public portfolio, documentation of my technical gro
 </details>
 
 <details open>
-<summary><b>🟡 Stage 2: Python for Data Science (Mar 1 – Apr 19)</b></summary>
+<summary><b>✅ Stage 2: Python for Data Science </b></summary>
 
-* **Week 7-8**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
-* **Week 9-10**: Advanced Basics: String manipulation, Lists, and Functions.
-* **Week 11-12**: **Pandas & NumPy**: Vectorized operations, DataFrames, loc/iloc, and handling missing values (NaN).
-* **Week 13**: **EDA Mini-Project**: Full cleaning and analysis of a Kaggle dataset in Jupyter Notebook.
+* **Week 7-9**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
+* **Week 9-11**: Advanced Basics: String manipulation, Lists, and Functions.
+* **Week 12-13**: **Pandas & NumPy**: Vectorized operations, DataFrames, loc/iloc, and handling missing values (NaN).
 </details>
 
 <details>
-<summary><b>⚪ Stage 3: Data Visualization (Apr 20 – May 3)</b></summary>
+<summary><b>⚪ Stage 3: Data Visualization </b></summary>
 
 * **Week 14**: Mastering **Tableau Public** & **Plotly** for interactive charts.
 * **Week 15**: Visualization Portfolio Project: Building a dashboard based on previous SQL/Python stages.
