@@ -14,7 +14,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 * **Week 5-6**: **Excel & Power Query**: ETL processes, Unpivot, `XLOOKUP`, and Interactive Dashboards.
 </details>
 
-<details open>
+<details>
 <summary><b>✅ Stage 2: Python for Data Science </b></summary>
 
 * **Week 7-9**: Python Fundamentals: Data types, loops (`FOR`/`WHILE`), and conditional logic.
@@ -29,7 +29,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 * **Week 17**: **Product Metrics**: Retention, LTV, Churn Rate, and Unit Economics.
 </details>
 
-<details>
+<details open>
 <summary><b>🟡 Stage 4: Data Visualization </b></summary>
 
 * **Week 14**: Mastering **Tableau Public** & **Plotly** for interactive charts.
