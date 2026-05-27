@@ -65,5 +65,6 @@ This repository serves as my public portfolio, documentation of my technical gro
 * [**Python_Learning**](./Python_learning): Practice tasks from "Generation Python" and mini-scripts.
 * **Projects**:
     * [Northwind Sales Analysis](https://github.com/alina-kalmamat/northwind-sql-project) — Advanced SQL (CTEs, Window Functions).
+    * [Macroeconomics in Kyrgyzstan Analysis](https://github.com/alina-kalmamat/macroeconomic-analysis-kyrgyzstan/tree/main) — Python, Exploratory Data Analysis, Data Visualization
 
 ## 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/alinakalmamat)!
