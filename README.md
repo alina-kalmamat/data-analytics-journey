@@ -39,7 +39,7 @@ This repository serves as my public portfolio, documentation of my technical gro
 <details>
 <summary><b>✅ Stage 5: Final Capstone & Career </b></summary>
 
-* **Week 18-19**: **End-to-End Capstone Project**: Predicting customer churn or sales forecasting.
+* **Week 18-19**: **End-to-End Capstone Project**: Credit Market Analysis Project, Macroeconimics in Kyrgyzstan Analysis Project
 * **Final Step**: CV optimization, LinkedIn networking, and internship applications.
 </details>
 
