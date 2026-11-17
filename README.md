@@ -29,15 +29,15 @@ This repository serves as my public portfolio, documentation of my technical gro
 * **Week 17**: **Product Metrics**: Retention, LTV, Churn Rate, and Unit Economics.
 </details>
 
-<details open>
-<summary><b>🟡 Stage 4: Data Visualization </b></summary>
+<details>
+<summary><b>✅ Stage 4: Data Visualization </b></summary>
 
-* **Week 14**: Mastering **Tableau Public** & **Plotly** for interactive charts.
+* **Week 14**: Mastering **Tableau Public** for interactive charts.
 * **Week 15**: Visualization Portfolio Project: Building a dashboard based on previous SQL/Python stages.
 </details>
 
 <details>
-<summary><b>⚪ Stage 5: Final Capstone & Career </b></summary>
+<summary><b>✅ Stage 5: Final Capstone & Career </b></summary>
 
 * **Week 18-19**: **End-to-End Capstone Project**: Predicting customer churn or sales forecasting.
 * **Final Step**: CV optimization, LinkedIn networking, and internship applications.
